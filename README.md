@@ -1,2 +1,3 @@
-# this-is-my-first-repostiory <br>
+# project1
+this is my first repository
 Author- om chavan
